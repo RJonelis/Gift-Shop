@@ -1,0 +1,1 @@
+select sum(retail_price) from customer_gift_purchases
